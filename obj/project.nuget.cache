@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UErYBt7tNyY0TobklIDdzHxAOe/sB8m3Ejtz9Eh+oDPzh7QMoefgCRGImneK1G+mKmWgwMagrC58E/G8AOKnGw==",
+  "success": true,
+  "projectFilePath": "C:\\curso_charp\\getrequest\\getrequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
